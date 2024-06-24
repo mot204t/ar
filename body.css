@@ -17,7 +17,7 @@
       margin: 0%;
       font-family: monospace;
       cursor: default;
-      background:linear-gradient(rgb(20, 20, 20), rgb(20, 20, 20));
+      background: rgb(20, 20, 20);
       background-size: 100%;
       background-repeat: no-repeat;
       background-position: 50%;
