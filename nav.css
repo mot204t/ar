@@ -172,6 +172,7 @@ nav a {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
   
   }
   label.logo :hover{
